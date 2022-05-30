@@ -1,5 +1,4 @@
 import json
-import unittest
 
 # the code should:
 # accept as an input 2 legs of the SFT as a JSON file
