@@ -41,7 +41,9 @@ the net amount of collateral posted or received by the investment firm
 corresponds to the "customer variable"
 - CVA: Credit Valuation Adjustment (either 1 or 1.5 depending on type of transaction)
 
+## Testing:
 
+I decided to use print statements to test the code since the json data set is quite simple. Throughout coding, I also manipulated the json data set to ensure the exception errors are thrown when necessary.
 
 
 
