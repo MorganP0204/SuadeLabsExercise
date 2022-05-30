@@ -15,7 +15,7 @@ In order to further align the treatment of counterparty credit risk with Regulat
 of 1.2 and a multiplier for credit valuation adjustment (CVA) to reflect the current market value of the credit risk of 
 the counterparty to the investment firm in specific transactions should also be added. (alpha and CVA)
 
-Reverse repurchase agreements (RRPs) are the buyer end of a repurchase agreement. (counterparty
+Reverse repurchase agreements (RRPs) are the buyer end of a repurchase agreement.
 
 ## **Equation for K-TCD**:
 
